@@ -16,3 +16,6 @@ Some situations would be:
 
 How do the diagrams help you visualise the branch strcture?
 Helps understand the commits and their parents/child relationship.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging two branches together makes 1 branch with the first commit with 2 or more parents which relate to the orginal branch). We represent it in the diagram like we do to understand where the branch comes from.
