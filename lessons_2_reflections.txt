@@ -13,3 +13,6 @@ What are some situations when branches would be helpful in keeping history organ
 Some situations would be:
 -testing an idea out this would help because you wouldn't make changes to the main working code and could disregard if necessary
 -making a different version for another users need - this would help because you could make changes needed for another user but majority of users could still use orginal 
+
+How do the diagrams help you visualise the branch strcture?
+Helps understand the commits and their parents/child relationship.
