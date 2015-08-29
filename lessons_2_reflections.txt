@@ -1,0 +1,7 @@
+What happens when you initialise a repository? Why do you need to do it?
+When you initialise a repository it creates turns a normal folder into a git repository that changes can be tracked in. This is needed because otherwise the folder would no be under version control.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is different from the working directory is all files in the working directory aren't nescessary in the staging area.
+Staging area is different from the repository as files in the staging area are not avaliable in version control as such yet but are ready to be commited to a repository.
+What value this adds means you can pick and choose what you want to commit.
